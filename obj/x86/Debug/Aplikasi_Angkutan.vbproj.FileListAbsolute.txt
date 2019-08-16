@@ -1,0 +1,84 @@
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.config
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.application
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbprojResolveAssemblyReference.cache
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Login.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Menu_Utama.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Splash.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Resources.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportKartu.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportPelanggan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Dashboard.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Jenis_Kendaraan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kartu.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kendaraan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Merek.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Pelanggan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbproj.GenerateResource.Cache
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.application
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi Pengolahan Data Surat Izin Usaha Angkutan Barang Pada Dinas Perhubungan\Aplikasi Izin Usaha Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.config
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.application
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbprojResolveAssemblyReference.cache
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Login.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Menu_Utama.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Splash.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Resources.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportKartu.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportPelanggan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Dashboard.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Jenis_Kendaraan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kartu.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kendaraan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Merek.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Pelanggan.resources
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbproj.GenerateResource.Cache
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+F:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.application
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.config
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.application
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbprojResolveAssemblyReference.cache
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Login.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Menu_Utama.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Splash.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Resources.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportKartu.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportPelanggan.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Dashboard.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Jenis_Kendaraan.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kartu.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kendaraan.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Merek.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Pelanggan.resources
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbproj.GenerateResource.Cache
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.application
+I:\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.config
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.application
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\bin\Debug\Aplikasi_Izin_Angkutan.exe
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbprojResolveAssemblyReference.cache
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Login.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Menu_Utama.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Splash.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Resources.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportKartu.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.frmReportPelanggan.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Dashboard.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Jenis_Kendaraan.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kartu.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Kendaraan.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Merek.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.Pelanggan.resources
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Angkutan.vbproj.GenerateResource.Cache
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe.manifest
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.application
+E:\PATAR\PATAR\PAPER\TUGAS AKHIR\2019\Richard Sebastian\Aplikasi_Izin_Angkutan\Aplikasi_Izin_Angkutan\obj\x86\Debug\Aplikasi_Izin_Angkutan.exe

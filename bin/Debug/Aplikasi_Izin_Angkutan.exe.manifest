@@ -152,14 +152,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aplikasi_Izin_Angkutan.exe" size="1020928">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Aplikasi_Izin_Angkutan.exe" size="1028608">
       <assemblyIdentity name="Aplikasi_Izin_Angkutan" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iKGLJVk5lYjaGRZB6f8oOaFKIYs=</dsig:DigestValue>
+        <dsig:DigestValue>LM6BHf1tP9FpOB98q+zXqCxMsOA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

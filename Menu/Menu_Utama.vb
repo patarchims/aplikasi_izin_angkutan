@@ -162,4 +162,13 @@ Public Class Menu_Utama
         frmReportPelanggan.Show()
         frmReportPelanggan.TampilReport()
     End Sub
+    Sub TampilReportKartu()
+        Panel_Fill.Controls.Clear()
+        frmKartuKontrol.TopLevel = False
+        Panel_Fill.Controls.Add(frmKartuKontrol)
+        frmKartuKontrol.Show()
+    End Sub
+    Private Sub LaporanKartuKontrolToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles LaporanKartuKontrolToolStripMenuItem.Click
+        TampilReportKartu()
+    End Sub
 End Class

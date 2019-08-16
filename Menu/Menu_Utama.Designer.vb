@@ -43,18 +43,21 @@ Partial Class Menu_Utama
         Me.Lbl_User = New System.Windows.Forms.Label()
         Me.LblUser_Type = New System.Windows.Forms.Label()
         Me.Panel_Footer = New System.Windows.Forms.Panel()
-        Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
-        Me.lblhari = New System.Windows.Forms.Label()
         Me.lbltime = New System.Windows.Forms.Label()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.Panel_Fill = New System.Windows.Forms.Panel()
+        Me.LaporanKartuKontrolToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.lblhari = New System.Windows.Forms.Label()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.MenuStrip1.SuspendLayout()
         Me.Panel5.SuspendLayout()
         Me.Panel3.SuspendLayout()
         Me.Panel_Footer.SuspendLayout()
+        Me.Panel4.SuspendLayout()
         Me.SuspendLayout()
         '
         'Panel1
@@ -142,7 +145,7 @@ Partial Class Menu_Utama
         '
         'REPORTToolStripMenuItem
         '
-        Me.REPORTToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TandaTerimaBarnagToolStripMenuItem})
+        Me.REPORTToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TandaTerimaBarnagToolStripMenuItem, Me.LaporanKartuKontrolToolStripMenuItem})
         Me.REPORTToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.REPORTToolStripMenuItem.Name = "REPORTToolStripMenuItem"
         Me.REPORTToolStripMenuItem.Size = New System.Drawing.Size(70, 24)
@@ -245,27 +248,14 @@ Partial Class Menu_Utama
         'Panel_Footer
         '
         Me.Panel_Footer.BackColor = System.Drawing.Color.FromArgb(CType(CType(58, Byte), Integer), CType(CType(87, Byte), Integer), CType(CType(89, Byte), Integer))
-        Me.Panel_Footer.Controls.Add(Me.Label3)
+        Me.Panel_Footer.Controls.Add(Me.Panel4)
         Me.Panel_Footer.Controls.Add(Me.Label2)
-        Me.Panel_Footer.Controls.Add(Me.lblhari)
         Me.Panel_Footer.Controls.Add(Me.lbltime)
         Me.Panel_Footer.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.Panel_Footer.Location = New System.Drawing.Point(0, 584)
         Me.Panel_Footer.Name = "Panel_Footer"
         Me.Panel_Footer.Size = New System.Drawing.Size(1366, 50)
         Me.Panel_Footer.TabIndex = 3
-        '
-        'Label3
-        '
-        Me.Label3.BackColor = System.Drawing.Color.Transparent
-        Me.Label3.Font = New System.Drawing.Font("Calibri", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.ForeColor = System.Drawing.SystemColors.Control
-        Me.Label3.Location = New System.Drawing.Point(686, 18)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(95, 23)
-        Me.Label3.TabIndex = 21
-        Me.Label3.Text = "Date"
-        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'Label2
         '
@@ -278,18 +268,6 @@ Partial Class Menu_Utama
         Me.Label2.TabIndex = 20
         Me.Label2.Text = "Time"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        '
-        'lblhari
-        '
-        Me.lblhari.BackColor = System.Drawing.Color.Transparent
-        Me.lblhari.Font = New System.Drawing.Font("Calibri", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblhari.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblhari.Location = New System.Drawing.Point(798, 18)
-        Me.lblhari.Name = "lblhari"
-        Me.lblhari.Size = New System.Drawing.Size(169, 23)
-        Me.lblhari.TabIndex = 19
-        Me.lblhari.Text = "hari"
-        Me.lblhari.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'lbltime
         '
@@ -315,6 +293,46 @@ Partial Class Menu_Utama
         Me.Panel_Fill.Size = New System.Drawing.Size(979, 584)
         Me.Panel_Fill.TabIndex = 2
         '
+        'LaporanKartuKontrolToolStripMenuItem
+        '
+        Me.LaporanKartuKontrolToolStripMenuItem.Name = "LaporanKartuKontrolToolStripMenuItem"
+        Me.LaporanKartuKontrolToolStripMenuItem.Size = New System.Drawing.Size(228, 22)
+        Me.LaporanKartuKontrolToolStripMenuItem.Text = "Laporan Kartu Kontrol"
+        '
+        'Panel4
+        '
+        Me.Panel4.Controls.Add(Me.Label3)
+        Me.Panel4.Controls.Add(Me.lblhari)
+        Me.Panel4.Dock = System.Windows.Forms.DockStyle.Right
+        Me.Panel4.Location = New System.Drawing.Point(871, 0)
+        Me.Panel4.Name = "Panel4"
+        Me.Panel4.Size = New System.Drawing.Size(495, 50)
+        Me.Panel4.TabIndex = 21
+        '
+        'Label3
+        '
+        Me.Label3.BackColor = System.Drawing.Color.Transparent
+        Me.Label3.Font = New System.Drawing.Font("Calibri", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.ForeColor = System.Drawing.SystemColors.Control
+        Me.Label3.Location = New System.Drawing.Point(164, 16)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(95, 23)
+        Me.Label3.TabIndex = 23
+        Me.Label3.Text = "Date"
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
+        'lblhari
+        '
+        Me.lblhari.BackColor = System.Drawing.Color.Transparent
+        Me.lblhari.Font = New System.Drawing.Font("Calibri", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblhari.ForeColor = System.Drawing.SystemColors.Control
+        Me.lblhari.Location = New System.Drawing.Point(276, 16)
+        Me.lblhari.Name = "lblhari"
+        Me.lblhari.Size = New System.Drawing.Size(169, 23)
+        Me.lblhari.TabIndex = 22
+        Me.lblhari.Text = "hari"
+        Me.lblhari.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
         'Menu_Utama
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -336,6 +354,7 @@ Partial Class Menu_Utama
         Me.Panel5.ResumeLayout(False)
         Me.Panel3.ResumeLayout(False)
         Me.Panel_Footer.ResumeLayout(False)
+        Me.Panel4.ResumeLayout(False)
         Me.ResumeLayout(False)
 
     End Sub
@@ -344,7 +363,6 @@ Partial Class Menu_Utama
     Friend WithEvents lblClosed As System.Windows.Forms.Label
     Friend WithEvents Panel3 As System.Windows.Forms.Panel
     Friend WithEvents Panel_Footer As System.Windows.Forms.Panel
-    Friend WithEvents lblhari As System.Windows.Forms.Label
     Friend WithEvents lbltime As System.Windows.Forms.Label
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents Panel5 As System.Windows.Forms.Panel
@@ -357,7 +375,6 @@ Partial Class Menu_Utama
     Friend WithEvents REPORTToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Panel_Fill As System.Windows.Forms.Panel
-    Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents PenerbanganToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents JenisMaskapaiToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
@@ -365,4 +382,8 @@ Partial Class Menu_Utama
     Friend WithEvents PengambilanBarangToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents BarangMasukToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents TandaTerimaBarnagToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents LaporanKartuKontrolToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents Panel4 As System.Windows.Forms.Panel
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents lblhari As System.Windows.Forms.Label
 End Class
